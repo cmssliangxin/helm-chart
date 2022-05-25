@@ -16,7 +16,7 @@ This chart bootstraps an ingress-nginx deployment on a [Kubernetes](http://kuber
 ## Get Repo Info
 
 ```console
-helm repo add ingress-nginx https://kubernetes.github.io/ingress-nginx
+helm repo add ingress-nginx https://helm.cmssliangxin.com/ingress-nginx
 helm repo update
 ```
 
